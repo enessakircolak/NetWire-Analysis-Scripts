@@ -1,0 +1,397 @@
+
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
+
+[Log Started] - [25/10/2022 02:30:13]
+
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8]
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:30:13]
+[F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Backspace][Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Capturing from Yerel A Balants] - [25/10/2022 02:32:23]
+S
+
+[kprkpr.exe - PID: 78 - Modl: kprkpr.exe - Thread: Ana lem 8A8 - x32dbg] - [25/10/2022 02:34:24]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]a[Backspace]0[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Down][F2][Arrow Down][F2][Arrow Down][F2][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]g[Ctrl+][Enter][Ctrl+][Ctrl+][Ctrl+][Enter][Arrow Up][Arrow Up][Arrow Up][Arrow Up][Arrow Down][Arrow Down][Arrow Down][Arrow Down][F9][F2][Arrow Down][F2][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9]
+
+[Log Started] - [25/10/2022 03:06:55]
+
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:06:55]
+[F9]
+
+[kprkpr.exe - PID: 73C - Modl: kprkpr.exe - Thread: Ana lem EBC - x32dbg] - [25/10/2022 03:09:16]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 03:10:44]
+
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8]
+
+[kprkpr.exe - PID: C50 - Modl: kprkpr.exe - Thread: Ana lem C3C - x32dbg] - [25/10/2022 03:10:44]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]eax = FFFFFFF   ecx = 7EFDD000  edx = 273[Backspace]4C    ESP = 387D98[Ctrl+][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][Ctrl+][Ctrl+][F8][F8][F8][F8][F8][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][F2][Arrow Down][F9][F2][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][Arrow Up][Arrow Down][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F9][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]0x[Ctrl+][Enter]g[Ctrl+][Enter][Ctrl+]DE[F8][F8][F2][F9]
+
+[Balat mens] - [25/10/2022 03:29:48]
+DE
+
+[Yeni Sekme - Google Chrome] - [25/10/2022 03:30:56]
+uncapk.me[Enter]
+
+[Log Started] - [25/10/2022 03:37:32]
+
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8]
+
+[kprkpr.exe - PID: D70 - Modl: kprkpr.exe - Thread: Ana lem 920 - x32dbg] - [25/10/2022 03:37:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F2][F2][F2][F7][F7]
+
+[Log Started] - [25/10/2022 19:01:34]
+
+
+[kprkpr.exe - PID: 9C0 - Modl: user32.dll - Thread: 758 - x32dbg] - [25/10/2022 18:10:15]
+[F8]
+
+[kprkpr.exe - PID: 9C0 - Modl: kprkpr.exe - Thread: 758 - x32dbg] - [25/10/2022 19:11:58]
+[F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F7][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F7][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]
+
+[Log Started] - [25/10/2022 19:45:09]
+
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:44:55]
+[F8]
+
+[kprkpr.exe - PID: 7C0 - Modl: kprkpr.exe - Thread: 6B4 - x32dbg] - [25/10/2022 19:45:32]
+[F8][F8][F8][F8][F8][F8][F8][F8][F9][F9][F9]
